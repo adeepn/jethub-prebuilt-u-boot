@@ -1,4 +1,4 @@
-#define PLAIN_VERSION "2015.01-g2f374fe"
+#define PLAIN_VERSION "2015.01-g6f5da88"
 #define U_BOOT_VERSION "U-Boot " PLAIN_VERSION
 #define CONFIG_SYSTEM_AS_ROOT ""
 #define CONFIG_AVB2 ""
